@@ -1,4 +1,4 @@
-### Esta aplicação usou: Node.js, express, React, Hooks, MySQL, Testes unitários RTL, MaterialUI e Joi.
+### Esta aplicação usou: Node.js, Express, React, Hooks, MySQL, Testes unitários RTL, MaterialUI e Joi.
 ## Instruções de visualização do projeto
 
 1. Clone o repositório e entre na pasta do repositório que você acabou de clonar.
